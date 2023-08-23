@@ -1,4 +1,4 @@
-## Setup
+## Setup test
 
 ### Requisites
 
@@ -12,7 +12,7 @@
 #### Run in Docker
 
 ```sh
-# building
+# building 
 docker build -t vuln-flask-web-app .
 
 # running
